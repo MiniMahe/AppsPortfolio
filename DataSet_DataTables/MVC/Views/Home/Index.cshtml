@@ -1,0 +1,65 @@
+﻿@model Lista
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <p>@Html.ActionLink("Siguiente página","Invoice","Home",null,null)</p>
+</div>
+
+<table class="table">
+    <thead>
+        @foreach (var item in Model.CustomerColumn)
+        {
+            <th>
+                @item
+            </th>
+        }
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Customers)
+        {
+            <tr>
+                <td>
+                    @item.CustomerId
+                </td>
+                <td>
+                    @item.FirstName
+                </td>
+                <td>
+                    @item.LastName
+                </td>
+                <td>
+                   @item.Company
+                </td>
+                <td>
+                    @item.Address
+                </td>
+                <td>
+                    @item.City
+                </td>
+                <td>
+                    @item.State
+                </td>
+                <td>
+                    @item.Country
+                </td>
+                <td>
+                    @item.PostalCode
+                </td>
+                <td>
+                    @item.Phone
+                </td>
+                <td>
+                    @item.Fax
+                </td>
+                <td>
+                    @item.Email
+                </td>
+                <td>
+                    @item.SupportRepId
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

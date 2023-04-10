@@ -1,0 +1,8 @@
+C:\Users\maelm\Desktop\DAW\Prog\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\maelm\Desktop\DAW\Prog\Clases\obj\Debug\Clases.csproj.SuggestedBindingRedirects.cache
+C:\Users\maelm\Desktop\DAW\Prog\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\maelm\Desktop\DAW\Prog\Clases\bin\Debug\Clases.exe.config
+C:\Users\maelm\Desktop\DAW\Prog\Clases\bin\Debug\Clases.exe
+C:\Users\maelm\Desktop\DAW\Prog\Clases\bin\Debug\Clases.pdb
+C:\Users\maelm\Desktop\DAW\Prog\Clases\obj\Debug\Clases.exe
+C:\Users\maelm\Desktop\DAW\Prog\Clases\obj\Debug\Clases.pdb

@@ -1,0 +1,8 @@
+C:\Users\maelm\Desktop\DAW\Prog\ordenar\bin\Debug\ordenar.exe.config
+C:\Users\maelm\Desktop\DAW\Prog\ordenar\bin\Debug\ordenar.exe
+C:\Users\maelm\Desktop\DAW\Prog\ordenar\bin\Debug\ordenar.pdb
+C:\Users\maelm\Desktop\DAW\Prog\ordenar\obj\Debug\ordenar.csproj.AssemblyReference.cache
+C:\Users\maelm\Desktop\DAW\Prog\ordenar\obj\Debug\ordenar.csproj.SuggestedBindingRedirects.cache
+C:\Users\maelm\Desktop\DAW\Prog\ordenar\obj\Debug\ordenar.csproj.CoreCompileInputs.cache
+C:\Users\maelm\Desktop\DAW\Prog\ordenar\obj\Debug\ordenar.exe
+C:\Users\maelm\Desktop\DAW\Prog\ordenar\obj\Debug\ordenar.pdb

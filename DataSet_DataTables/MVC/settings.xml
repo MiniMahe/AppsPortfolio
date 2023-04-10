@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<connectionStrings>
+		<add name="cnnString"> Server=MiniMahe\sqlexpress;DataBase= West_Music;Integrated Security=true</add>
+		<add name="cnnStrings"> Server=MHAE;DataBase= West_Music;Integrated Security=true</add>
+	</connectionStrings>
+</configuration>

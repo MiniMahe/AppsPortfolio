@@ -1,0 +1,52 @@
+﻿@model Lista
+
+
+<div class="text-center">
+    <p>@Html.ActionLink("Siguiente página","InvoiceLine","Home",null,null)</p>
+    <p>@Html.ActionLink("Anterior página","Index","Home",null,null)</p>
+</div>
+
+<table class="table">
+    <thead>
+        @foreach (var item in Model.InvoiceColumn)
+        {
+            <th>
+                @item
+            </th>
+        }
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Invoice)
+        {
+            <tr>
+                <td>
+                    @item.InvoiceId
+                </td>
+                <td>
+                    @item.CustomerId
+                </td>
+                <td>
+                    @item.InvoiceDate
+                </td>
+                <td>
+                    @item.Address
+                </td>
+                <td>
+                    @item.City
+                </td>
+                <td>
+                    @item.State
+                </td>
+                <td>
+                    @item.Country
+                </td>
+                <td>
+                    @item.PostalCode
+                </td>
+                <td>
+                    @item.Total
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
